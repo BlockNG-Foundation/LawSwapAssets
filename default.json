@@ -1,0 +1,65 @@
+[
+  {
+    "address": "0x0b00366fBF7037E9d75E4A569ab27dAB84759302",
+    "image": "https://marketcap.cash/law.png",
+    "name": "LAWTOKEN",
+    "symbol": "LAW",
+    "decimals": 18,
+    "telegram": "https://t.me/BlockNGGlobal",
+    "websites": [
+      "https://blockng.money/"
+    ]
+  },
+  {
+    "address": "",
+    "image": "https://marketcap.cash/bch.svg",
+    "name": "Bitcoin Cash",
+    "symbol": "BCH",
+    "decimals": 18
+  },
+  {
+    "name": "LAW Entropy",
+    "address": "0x4ee06d0486ced674E75Ed9e521725580e8ffDA21",
+    "symbol": "lawETP",
+    "decimals": 18,
+    "image": "https://marketcap.cash/lawetp.png",
+    "websites": [
+      "https://blockng.money/"
+    ],
+    "telegram": "https://t.me/BlockNGGlobal",
+    "desc": "The universe is destined for thermodynamic equilibrium — maximum entropy."
+  },
+  {
+    "name": "LAW US Dollar",
+    "desc": "Stablecoin of LAW Ecosystem",
+    "address": "0xE1E655BE6F50344e6dd708c27BD8D66492d6ecAf",
+    "symbol": "lawUSD",
+    "decimals": 18,
+    "image": "https://marketcap.cash/lawusd.png",
+    "websites": [
+      "https://blockng.money/"
+    ],
+    "telegram": "https://t.me/BlockNGGlobal",
+    "twitter": "https://twitter.com/BlockngO/",
+    "github": "https://github.com/BlockNG-Foundation"
+  },
+  {
+    "address": "0x3743eC0673453E5009310C727Ba4eaF7b3a1cc04",
+    "image": "https://marketcap.cash/bch.svg",
+    "name": "Wrapped BCH",
+    "symbol": "WBCH",
+    "decimals": 18
+  },
+  {
+    "address": "0x7b2B3C5308ab5b2a1d9a94d20D35CCDf61e05b72",
+    "image": "https://marketcap.cash/flexusd.png",
+    "name": "flexUSD",
+    "symbol": "FLEXUSD",
+    "decimals": 18,
+    "websites": [
+      "https://coinflex.com/flexUSD"
+    ],
+    "twitter": "https://twitter.com/coinflexdotcom",
+    "telegram": "https://t.me/coinflex_EN"
+  }
+]
