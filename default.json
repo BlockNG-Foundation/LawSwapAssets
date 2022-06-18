@@ -64,7 +64,7 @@
   },
   {
     "address": "0xBc7b858B5694D485AD17c89675649cE44De21BEa",
-    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/bnb.svg",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/bnb.png",
     "name": "BlockNG-Peg BNB Token",
     "symbol": "bcBNB",
     "decimals": 18
