@@ -61,5 +61,55 @@
     ],
     "twitter": "https://twitter.com/coinflexdotcom",
     "telegram": "https://t.me/coinflex_EN"
+  },
+  {
+    "address": "0xBc7b858B5694D485AD17c89675649cE44De21BEa",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/bnb.svg",
+    "name": "BlockNG-Peg BNB Token",
+    "symbol": "bcBNB",
+    "decimals": 18
+  },
+  {
+    "address": "0xBc2F884680c95A02cea099dA2F524b366d9028Ba",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/usdt.svg",
+    "name": "BlockNG-Peg USDT Token",
+    "symbol": "bcUSDT",
+    "decimals": 18
+  },
+  {
+    "address": "0xbC6aEA0c2Cd7bFA073903ebdc23c8aAe79C7c826",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/busd.svg",
+    "name": "BlockNG-Peg BUSD Token",
+    "symbol": "bcBUSD",
+    "decimals": 18
+  },
+  {
+    "address": "0xBcbd9990dcEC6a64741ea27BeC0cA8ff6B91Bc26",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/usdc.svg",
+    "name": "BlockNG-Peg USDC Token",
+    "symbol": "bcUSDC",
+    "decimals": 18
+  },
+  {
+    "address": "0xbC8643ceDd98F94756633f18945362d3B24283B8",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/btc.svg",
+    "name": "BlockNG-Peg BTC Token",
+    "symbol": "bcBTC",
+    "decimals": 18
+  },
+  {
+    "address": "0xbC7160974318820be438e54439b309921e96B62C",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/eth.svg",
+    "name": "BlockNG-Peg ETH Token",
+    "symbol": "bcETH",
+    "decimals": 18
+  },
+  {
+    "address": "0xBCCD70794BB199B0993E56Bfe277142246c2f43b",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/dai.svg",
+    "name": "BlockNG-Peg DAI Token",
+    "symbol": "bcDAI",
+    "decimals": 18
   }
+  
 ]
