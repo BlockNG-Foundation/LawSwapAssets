@@ -1,7 +1,7 @@
 [
   {
     "address": "0x0b00366fBF7037E9d75E4A569ab27dAB84759302",
-    "image": "https://marketcap.cash/law.png",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/law.svg",
     "name": "LAWTOKEN",
     "symbol": "LAW",
     "decimals": 18,
@@ -22,7 +22,7 @@
     "address": "0x4ee06d0486ced674E75Ed9e521725580e8ffDA21",
     "symbol": "lawETP",
     "decimals": 18,
-    "image": "https://marketcap.cash/lawetp.png",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/lawETP.svg",
     "websites": [
       "https://blockng.money/"
     ],
@@ -35,7 +35,7 @@
     "address": "0xE1E655BE6F50344e6dd708c27BD8D66492d6ecAf",
     "symbol": "lawUSD",
     "decimals": 18,
-    "image": "https://marketcap.cash/lawusd.png",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/lawUSD.svg",
     "websites": [
       "https://blockng.money/"
     ],
