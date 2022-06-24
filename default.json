@@ -18,6 +18,13 @@
     "decimals": 18
   },
   {
+    "address": "0xBc9bD8DDe6C5a8e1CBE293356E02f5984693b195",
+    "image": "https://marketcap.cash/bch.svg",
+    "name": "Bitcoin Cash",
+    "symbol": "bcBCH",
+    "decimals": 18
+  },
+  {
     "name": "LAW Entropy",
     "address": "0x4ee06d0486ced674E75Ed9e521725580e8ffDA21",
     "symbol": "lawETP",
