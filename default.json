@@ -1,5 +1,4 @@
-[
-  {
+[{
     "address": "0x0b00366fBF7037E9d75E4A569ab27dAB84759302",
     "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/law.svg",
     "name": "LAWTOKEN",
@@ -22,6 +21,30 @@
     "image": "https://marketcap.cash/bch.svg",
     "name": "Bitcoin Cash",
     "symbol": "bcBCH",
+    "decimals": 18
+  },
+  {
+    "address": "0xA942Ba6E9Aab4b67d73572fb0e3BD5D25d5414ED",
+    "image": "https://www.marketcap.cash/_next/image?url=%2Fholy.jpg&w=128&q=75",
+    "name": "Jesus Piece",
+    "civil": true,
+    "symbol": "HOLY",
+    "decimals": 18
+  },
+  {
+    "address": "0x0E36C351ff40183435C9Bd1D17bfb1F3548f1963",
+    "image": "https://www.marketcap.cash/_next/image?url=%2Flambo.jpg&w=128&q=75",
+    "name": "Wenlambo",
+    "civil": true,
+    "symbol": "LAMBO",
+    "decimals": 18
+  },
+  {
+    "address": "0x757b6A3F53323B6359310749BB9C0F5f3aEE1224",
+    "image": "https://www.marketcap.cash/_next/image?url=%2Fblue.png&w=128&q=75",
+    "name": "Bluecoin",
+    "civil": true,
+    "symbol": "BLUE",
     "decimals": 18
   },
   {
@@ -56,18 +79,6 @@
     "name": "Wrapped BCH",
     "symbol": "WBCH",
     "decimals": 18
-  },
-  {
-    "address": "0x7b2B3C5308ab5b2a1d9a94d20D35CCDf61e05b72",
-    "image": "https://marketcap.cash/flexusd.png",
-    "name": "flexUSD",
-    "symbol": "FLEXUSD",
-    "decimals": 18,
-    "websites": [
-      "https://coinflex.com/flexUSD"
-    ],
-    "twitter": "https://twitter.com/coinflexdotcom",
-    "telegram": "https://t.me/coinflex_EN"
   },
   {
     "address": "0xBc7b858B5694D485AD17c89675649cE44De21BEa",
@@ -117,6 +128,18 @@
     "name": "BlockNG-Peg DAI Token",
     "symbol": "bcDAI",
     "decimals": 18
-  }
-  
+  },
+  {
+    "address": "0x7b2B3C5308ab5b2a1d9a94d20D35CCDf61e05b72",
+    "image": "https://marketcap.cash/flexusd.png",
+    "name": "flexUSD",
+    "symbol": "FLEXUSD",
+    "decimals": 18,
+    "websites": [
+      "https://coinflex.com/flexUSD"
+    ],
+    "twitter": "https://twitter.com/coinflexdotcom",
+    "telegram": "https://t.me/coinflex_EN"
+  },
+
 ]
