@@ -68,7 +68,7 @@
     "name": "Expected Value for Earth",
     "civil": true,
     "symbol": "EVE",
-    "decimals": 18
+    "decimals": 7
   },
   {
     "name": "LAW Entropy",
