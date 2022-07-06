@@ -60,7 +60,7 @@
     "name": "CashCats",
     "civil": true,
     "symbol": "CATS",
-    "decimals": 18
+    "decimals": 2
   },
   {
     "address": "0x7b82A3b1417Cd21E67f745917a80cC0f53277B8C",
