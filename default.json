@@ -55,6 +55,22 @@
     "decimals": 18
   },
   {
+    "address": "0x265bD28d79400D55a1665707Fa14A72978FA6043",
+    "image": "https://www.marketcap.cash/_next/image?url=%2Fcashcats.jpg&w=128&q=75",
+    "name": "CashCats",
+    "civil": true,
+    "symbol": "CATS",
+    "decimals": 18
+  },
+  {
+    "address": "0x7b82A3b1417Cd21E67f745917a80cC0f53277B8C",
+    "image": "https://www.marketcap.cash/_next/image?url=%2Feve.png&w=128&q=75",
+    "name": "Expected Value for Earth",
+    "civil": true,
+    "symbol": "EVE",
+    "decimals": 18
+  },
+  {
     "name": "LAW Entropy",
     "address": "0x4ee06d0486ced674E75Ed9e521725580e8ffDA21",
     "symbol": "lawETP",
