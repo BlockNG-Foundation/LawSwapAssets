@@ -1,168 +1,188 @@
-[{
-    "address": "0x0b00366fBF7037E9d75E4A569ab27dAB84759302",
-    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/law.svg",
-    "name": "LAWTOKEN",
-    "symbol": "LAW",
-    "decimals": 18,
-    "telegram": "https://t.me/BlockNGGlobal",
-    "websites": [
-      "https://blockng.money/"
-    ]
-  },
-  {
-    "address": "",
-    "image": "https://marketcap.cash/bch.svg",
-    "name": "Bitcoin Cash",
-    "symbol": "BCH",
-    "decimals": 18
-  },
-  {
-    "address": "0xBc9bD8DDe6C5a8e1CBE293356E02f5984693b195",
-    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/bcbch.svg",
-    "name": "Bitcoin Cash",
-    "symbol": "bcBCH",
-    "decimals": 18
-  },
-  {
-    "address": "0x73BE9c8Edf5e951c9a0762EA2b1DE8c8F38B5e91",
-    "image": "https://www.marketcap.cash/_next/image?url=%2Ftango.png&w=128&q=75",
-    "name": "TANGO",
-    "symbol": "TANGO",
-    "decimals": 18
-  },
-  {
-    "address": "0xA942Ba6E9Aab4b67d73572fb0e3BD5D25d5414ED",
-    "image": "https://www.marketcap.cash/_next/image?url=%2Fholy.jpg&w=128&q=75",
-    "name": "Jesus Piece",
-    "civil": true,
-    "symbol": "HOLY",
-    "decimals": 18
-  },
-  {
-    "address": "0x0E36C351ff40183435C9Bd1D17bfb1F3548f1963",
-    "image": "https://www.marketcap.cash/_next/image?url=%2Flambo.jpg&w=128&q=75",
-    "name": "Wenlambo",
-    "civil": true,
-    "symbol": "LAMBO",
-    "decimals": 18
-  },
-  {
-    "address": "0x757b6A3F53323B6359310749BB9C0F5f3aEE1224",
-    "image": "https://www.marketcap.cash/_next/image?url=%2Fblue.png&w=128&q=75",
-    "name": "Bluecoin",
-    "civil": true,
-    "symbol": "BLUE",
-    "decimals": 18
-  },
-  {
-    "address": "0x265bD28d79400D55a1665707Fa14A72978FA6043",
-    "image": "https://www.marketcap.cash/_next/image?url=%2Fcashcats.jpg&w=128&q=75",
-    "name": "CashCats",
-    "civil": true,
-    "symbol": "CATS",
-    "decimals": 2
-  },
-  {
-    "address": "0x7b82A3b1417Cd21E67f745917a80cC0f53277B8C",
-    "image": "https://www.marketcap.cash/_next/image?url=%2Feve.png&w=128&q=75",
-    "name": "Expected Value for Earth",
-    "civil": true,
-    "symbol": "EVE",
-    "decimals": 7
-  },
-  {
-    "name": "LAW Entropy",
-    "address": "0x4ee06d0486ced674E75Ed9e521725580e8ffDA21",
-    "symbol": "lawETP",
-    "decimals": 18,
-    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/lawETP.svg",
-    "websites": [
-      "https://blockng.money/"
-    ],
-    "telegram": "https://t.me/BlockNGGlobal",
-    "desc": "The universe is destined for thermodynamic equilibrium — maximum entropy."
-  },
-  {
-    "name": "LAW US Dollar",
-    "desc": "Stablecoin of LAW Ecosystem",
-    "address": "0xE1E655BE6F50344e6dd708c27BD8D66492d6ecAf",
-    "symbol": "lawUSD",
-    "decimals": 18,
-    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/lawUSD.svg",
-    "websites": [
-      "https://blockng.money/"
-    ],
-    "telegram": "https://t.me/BlockNGGlobal",
-    "twitter": "https://twitter.com/BlockngO/",
-    "github": "https://github.com/BlockNG-Foundation"
-  },
-  {
-    "address": "0x3743eC0673453E5009310C727Ba4eaF7b3a1cc04",
-    "image": "https://marketcap.cash/bch.svg",
-    "name": "Wrapped BCH",
-    "symbol": "WBCH",
-    "decimals": 18
-  },
-  {
-    "address": "0xBc7b858B5694D485AD17c89675649cE44De21BEa",
-    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/bnb.svg",
-    "name": "BlockNG-Peg BNB Token",
-    "symbol": "bcBNB",
-    "decimals": 18
-  },
-  {
-    "address": "0xBc2F884680c95A02cea099dA2F524b366d9028Ba",
-    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/usdt.svg",
-    "name": "BlockNG-Peg USDT Token",
-    "symbol": "bcUSDT",
-    "decimals": 18
-  },
-  {
-    "address": "0xbC6aEA0c2Cd7bFA073903ebdc23c8aAe79C7c826",
-    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/busd.svg",
-    "name": "BlockNG-Peg BUSD Token",
-    "symbol": "bcBUSD",
-    "decimals": 18
-  },
-  {
-    "address": "0xBcbd9990dcEC6a64741ea27BeC0cA8ff6B91Bc26",
-    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/usdc.svg",
-    "name": "BlockNG-Peg USDC Token",
-    "symbol": "bcUSDC",
-    "decimals": 18
-  },
-  {
-    "address": "0xbC8643ceDd98F94756633f18945362d3B24283B8",
-    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/btc.svg",
-    "name": "BlockNG-Peg BTC Token",
-    "symbol": "bcBTC",
-    "decimals": 18
-  },
-  {
-    "address": "0xbC7160974318820be438e54439b309921e96B62C",
-    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/eth.svg",
-    "name": "BlockNG-Peg ETH Token",
-    "symbol": "bcETH",
-    "decimals": 18
-  },
-  {
-    "address": "0xBCCD70794BB199B0993E56Bfe277142246c2f43b",
-    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/dai.svg",
-    "name": "BlockNG-Peg DAI Token",
-    "symbol": "bcDAI",
-    "decimals": 18
-  },
-  {
-    "address": "0x7b2B3C5308ab5b2a1d9a94d20D35CCDf61e05b72",
-    "image": "https://marketcap.cash/flexusd.png",
-    "name": "flexUSD",
-    "symbol": "FLEXUSD",
-    "decimals": 18,
-    "websites": [
-      "https://coinflex.com/flexUSD"
-    ],
-    "twitter": "https://twitter.com/coinflexdotcom",
-    "telegram": "https://t.me/coinflex_EN"
-  }
-
+[
+    {
+        "address": "0x0b00366fBF7037E9d75E4A569ab27dAB84759302",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/law.svg",
+        "name": "LAWTOKEN",
+        "symbol": "LAW",
+        "decimals": 18,
+        "telegram": "https://t.me/BlockNGGlobal",
+        "websites":
+        [
+            "https://blockng.money/"
+        ]
+    },
+    {
+        "address": "",
+        "image": "https://marketcap.cash/bch.svg",
+        "name": "Bitcoin Cash",
+        "symbol": "BCH",
+        "decimals": 18
+    },
+    {
+        "address": "0xBc9bD8DDe6C5a8e1CBE293356E02f5984693b195",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/bcbch.svg",
+        "name": "Bitcoin Cash",
+        "symbol": "bcBCH",
+        "decimals": 18
+    },
+    {
+        "address": "0x73BE9c8Edf5e951c9a0762EA2b1DE8c8F38B5e91",
+        "image": "https://www.marketcap.cash/_next/image?url=%2Ftango.png&w=128&q=75",
+        "name": "TANGO",
+        "symbol": "TANGO",
+        "decimals": 18
+    },
+    {
+        "address": "0xA942Ba6E9Aab4b67d73572fb0e3BD5D25d5414ED",
+        "image": "https://www.marketcap.cash/_next/image?url=%2Fholy.jpg&w=128&q=75",
+        "name": "Jesus Piece",
+        "civil": true,
+        "symbol": "HOLY",
+        "decimals": 18
+    },
+    {
+        "address": "0x0E36C351ff40183435C9Bd1D17bfb1F3548f1963",
+        "image": "https://www.marketcap.cash/_next/image?url=%2Flambo.jpg&w=128&q=75",
+        "name": "Wenlambo",
+        "civil": true,
+        "symbol": "LAMBO",
+        "decimals": 18
+    },
+    {
+        "address": "0x757b6A3F53323B6359310749BB9C0F5f3aEE1224",
+        "image": "https://www.marketcap.cash/_next/image?url=%2Fblue.png&w=128&q=75",
+        "name": "Bluecoin",
+        "civil": true,
+        "symbol": "BLUE",
+        "decimals": 18
+    },
+    {
+        "address": "0x265bD28d79400D55a1665707Fa14A72978FA6043",
+        "image": "https://www.marketcap.cash/_next/image?url=%2Fcashcats.jpg&w=128&q=75",
+        "name": "CashCats",
+        "civil": true,
+        "symbol": "CATS",
+        "decimals": 2
+    },
+    {
+        "address": "0x7b82A3b1417Cd21E67f745917a80cC0f53277B8C",
+        "image": "https://www.marketcap.cash/_next/image?url=%2Feve.png&w=128&q=75",
+        "name": "Expected Value for Earth",
+        "civil": true,
+        "symbol": "EVE",
+        "decimals": 7
+    },
+    {
+        "address": "0x4F1480ba79F7477230ec3b2eCc868E8221925072",
+        "image": "https://www.marketcap.cash/_next/image?url=%2Fkonra.jpg&w=128&q=75",
+        "name": "Konra",
+        "civil": true,
+        "symbol": "KONRA",
+        "decimals": 18
+    },
+    {
+        "address": "0x5B75B5eb28bEceDBB0A5A3cfeE6cdb4327E1856B",
+        "image": "https://www.marketcap.cash/_next/image?url=%2Fcst.PNG&w=128&q=75",
+        "name": "CryptoSorted",
+        "civil": true,
+        "symbol": "CST",
+        "decimals": 18
+    },
+    {
+        "name": "LAW Entropy",
+        "address": "0x4ee06d0486ced674E75Ed9e521725580e8ffDA21",
+        "symbol": "lawETP",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/lawETP.svg",
+        "websites":
+        [
+            "https://blockng.money/"
+        ],
+        "telegram": "https://t.me/BlockNGGlobal",
+        "desc": "The universe is destined for thermodynamic equilibrium — maximum entropy."
+    },
+    {
+        "name": "LAW US Dollar",
+        "desc": "Stablecoin of LAW Ecosystem",
+        "address": "0xE1E655BE6F50344e6dd708c27BD8D66492d6ecAf",
+        "symbol": "lawUSD",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/lawUSD.svg",
+        "websites":
+        [
+            "https://blockng.money/"
+        ],
+        "telegram": "https://t.me/BlockNGGlobal",
+        "twitter": "https://twitter.com/BlockngO/",
+        "github": "https://github.com/BlockNG-Foundation"
+    },
+    {
+        "address": "0x3743eC0673453E5009310C727Ba4eaF7b3a1cc04",
+        "image": "https://marketcap.cash/bch.svg",
+        "name": "Wrapped BCH",
+        "symbol": "WBCH",
+        "decimals": 18
+    },
+    {
+        "address": "0xBc7b858B5694D485AD17c89675649cE44De21BEa",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/bnb.svg",
+        "name": "BlockNG-Peg BNB Token",
+        "symbol": "bcBNB",
+        "decimals": 18
+    },
+    {
+        "address": "0xBc2F884680c95A02cea099dA2F524b366d9028Ba",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/usdt.svg",
+        "name": "BlockNG-Peg USDT Token",
+        "symbol": "bcUSDT",
+        "decimals": 18
+    },
+    {
+        "address": "0xbC6aEA0c2Cd7bFA073903ebdc23c8aAe79C7c826",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/busd.svg",
+        "name": "BlockNG-Peg BUSD Token",
+        "symbol": "bcBUSD",
+        "decimals": 18
+    },
+    {
+        "address": "0xBcbd9990dcEC6a64741ea27BeC0cA8ff6B91Bc26",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/usdc.svg",
+        "name": "BlockNG-Peg USDC Token",
+        "symbol": "bcUSDC",
+        "decimals": 18
+    },
+    {
+        "address": "0xbC8643ceDd98F94756633f18945362d3B24283B8",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/btc.svg",
+        "name": "BlockNG-Peg BTC Token",
+        "symbol": "bcBTC",
+        "decimals": 18
+    },
+    {
+        "address": "0xbC7160974318820be438e54439b309921e96B62C",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/eth.svg",
+        "name": "BlockNG-Peg ETH Token",
+        "symbol": "bcETH",
+        "decimals": 18
+    },
+    {
+        "address": "0xBCCD70794BB199B0993E56Bfe277142246c2f43b",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/dai.svg",
+        "name": "BlockNG-Peg DAI Token",
+        "symbol": "bcDAI",
+        "decimals": 18
+    },
+    {
+        "address": "0x7b2B3C5308ab5b2a1d9a94d20D35CCDf61e05b72",
+        "image": "https://marketcap.cash/flexusd.png",
+        "name": "flexUSD",
+        "symbol": "FLEXUSD",
+        "decimals": 18,
+        "websites":
+        [
+            "https://coinflex.com/flexUSD"
+        ],
+        "twitter": "https://twitter.com/coinflexdotcom",
+        "telegram": "https://t.me/coinflex_EN"
+    }
 ]
