@@ -89,6 +89,14 @@
         "decimals": 18
     },
     {
+        "address": "0x675E1d6FcE8C7cC091aED06A68D079489450338a",
+        "image": "https://www.marketcap.cash/_next/image?url=%2Farg.png&w=128&q=75",
+        "name": "Bitcoin Cash Argentina",
+        "civil": true,
+        "symbol": "ARG",
+        "decimals": 18
+    },
+    {
         "name": "LAW Entropy",
         "address": "0x4ee06d0486ced674E75Ed9e521725580e8ffDA21",
         "symbol": "lawETP",
