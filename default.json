@@ -26,117 +26,6 @@
         "decimals": 18
     },
     {
-        "address": "0x73BE9c8Edf5e951c9a0762EA2b1DE8c8F38B5e91",
-        "image": "https://www.marketcap.cash/_next/image?url=%2Ftango.png&w=128&q=75",
-        "name": "TANGO",
-        "symbol": "TANGO",
-        "decimals": 18
-    },
-    {
-        "address": "0xA942Ba6E9Aab4b67d73572fb0e3BD5D25d5414ED",
-        "image": "https://www.marketcap.cash/_next/image?url=%2Fholy.jpg&w=128&q=75",
-        "name": "Jesus Piece",
-        "civil": true,
-        "symbol": "HOLY",
-        "decimals": 18
-    },
-    {
-        "address": "0x0E36C351ff40183435C9Bd1D17bfb1F3548f1963",
-        "image": "https://www.marketcap.cash/_next/image?url=%2Flambo.jpg&w=128&q=75",
-        "name": "Wenlambo",
-        "civil": true,
-        "symbol": "LAMBO",
-        "decimals": 18
-    },
-    {
-        "address": "0x757b6A3F53323B6359310749BB9C0F5f3aEE1224",
-        "image": "https://www.marketcap.cash/_next/image?url=%2Fblue.png&w=128&q=75",
-        "name": "Bluecoin",
-        "civil": true,
-        "symbol": "BLUE",
-        "decimals": 18
-    },
-    {
-        "address": "0x265bD28d79400D55a1665707Fa14A72978FA6043",
-        "image": "https://www.marketcap.cash/_next/image?url=%2Fcashcats.jpg&w=128&q=75",
-        "name": "CashCats",
-        "civil": true,
-        "symbol": "CATS",
-        "decimals": 2
-    },
-    {
-        "address": "0x7b82A3b1417Cd21E67f745917a80cC0f53277B8C",
-        "image": "https://www.marketcap.cash/_next/image?url=%2Feve.png&w=128&q=75",
-        "name": "Expected Value for Earth",
-        "civil": true,
-        "symbol": "EVE",
-        "decimals": 7
-    },
-    {
-        "address": "0x4F1480ba79F7477230ec3b2eCc868E8221925072",
-        "image": "https://www.marketcap.cash/_next/image?url=%2Fkonra.jpg&w=128&q=75",
-        "name": "Konra",
-        "civil": true,
-        "symbol": "KONRA",
-        "decimals": 18
-    },
-    {
-        "address": "0x5B75B5eb28bEceDBB0A5A3cfeE6cdb4327E1856B",
-        "image": "https://www.marketcap.cash/_next/image?url=%2Fcst.PNG&w=128&q=75",
-        "name": "CryptoSorted",
-        "civil": true,
-        "symbol": "CST",
-        "decimals": 18
-    },
-    {
-        "address": "0x675E1d6FcE8C7cC091aED06A68D079489450338a",
-        "image": "https://www.marketcap.cash/_next/image?url=%2Farg.png&w=128&q=75",
-        "name": "Bitcoin Cash Argentina",
-        "civil": true,
-        "symbol": "ARG",
-        "decimals": 18
-    },
-    {
-        "address": "0xC41C680c60309d4646379eD62020c534eB67b6f4",
-        "image": "https://www.marketcap.cash/_next/image?url=%2Fxmist.png&w=128&q=75",
-        "name": "MISTbar",
-        "civil": true,
-        "symbol": "XMIST",
-        "decimals": 18
-    },
-    {
-        "address": "0x35b3Ee79E1A7775cE0c11Bd8cd416630E07B0d6f",
-        "image": "https://www.marketcap.cash/_next/image?url=%2Flns.png&w=128&q=75",
-        "name": "Bitcoin Cash Name Service",
-        "civil": true,
-        "symbol": "LNS",
-        "decimals": 18
-    },
-    {
-        "address": "0x8358758D3952A0146560F3584d3b219ed631E1ea",
-        "image": "https://www.marketcap.cash/_next/image?url=%2Fcao.png&w=128&q=75",
-        "name": "CAO",
-        "civil": true,
-        "symbol": "CAO",
-        "decimals": 9
-    },
-    {
-        "address": "0x659F04F36e90143fCaC202D4BC36C699C078fC98",
-        "image": "https://www.marketcap.cash/_next/image?url=%2Fclk.jpg&w=128&q=75",
-        "name": "Catsluck",
-        "civil": true,
-        "symbol": "CLK",
-        "decimals": 18
-    },
-    {
-        "address": "0xF05bD3d7709980f60CD5206BddFFA8553176dd29",
-        "image": "https://www.marketcap.cash/_next/image?url=%2Fsidx.png&w=128&q=75",
-        "name": "SmartIndex",
-        "civil": true,
-        "symbol": "SIDX",
-        "decimals": 18
-    },
-    {
         "name": "LAW Entropy",
         "address": "0x4ee06d0486ced674E75Ed9e521725580e8ffDA21",
         "symbol": "lawETP",
@@ -166,7 +55,7 @@
     },
     {
         "address": "0x3743eC0673453E5009310C727Ba4eaF7b3a1cc04",
-        "image": "https://marketcap.cash/bch.svg",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/BCH.png",
         "name": "Wrapped BCH",
         "symbol": "WBCH",
         "decimals": 18
@@ -222,7 +111,7 @@
     },
     {
         "address": "0x7b2B3C5308ab5b2a1d9a94d20D35CCDf61e05b72",
-        "image": "https://marketcap.cash/flexusd.png",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/0x7b2B3C5308ab5b2a1d9a94d20D35CCDf61e05b72.png",
         "name": "flexUSD",
         "symbol": "FLEXUSD",
         "decimals": 18,
@@ -232,5 +121,133 @@
         ],
         "twitter": "https://twitter.com/coinflexdotcom",
         "telegram": "https://t.me/coinflex_EN"
+    },
+    {
+        "address": "0xA942Ba6E9Aab4b67d73572fb0e3BD5D25d5414ED",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/0xa942ba6e9aab4b67d73572fb0e3bd5d25d5414ed.jpg",
+        "name": "Jesus Piece",
+        "symbol": "HOLY",
+        "decimals": 18,
+        "civil": true
+    },
+    {
+        "address": "0x757b6A3F53323B6359310749BB9C0F5f3aEE1224",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/0x757b6a3f53323b6359310749bb9c0f5f3aee1224.png",
+        "name": "Bluecoin",
+        "symbol": "BLUE",
+        "decimals": 18,
+        "civil": true
+    },
+    {
+        "address": "0x0E36C351ff40183435C9Bd1D17bfb1F3548f1963",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/0x0e36c351ff40183435c9bd1d17bfb1f3548f1963.jpg",
+        "name": "Wenlambo",
+        "symbol": "LAMBO",
+        "decimals": 18,
+        "civil": true
+    },
+    {
+        "address": "0x73BE9c8Edf5e951c9a0762EA2b1DE8c8F38B5e91",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/0x73be9c8edf5e951c9a0762ea2b1de8c8f38b5e91.png",
+        "name": "TANGO",
+        "symbol": "TANGO",
+        "decimals": 18,
+        "civil": true
+    },
+    {
+        "address": "0x7b82A3b1417Cd21E67f745917a80cC0f53277B8C",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/0x7b82a3b1417cd21e67f745917a80cc0f53277b8c.png",
+        "name": "Expected Value for Earth",
+        "symbol": "EVE",
+        "decimals": 7,
+        "civil": true
+    },
+    {
+        "address": "0x265bD28d79400D55a1665707Fa14A72978FA6043",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/0x265bd28d79400d55a1665707fa14a72978fa6043.jpg",
+        "name": "CashCats",
+        "symbol": "CATS",
+        "decimals": 2,
+        "civil": true
+    },
+    {
+        "address": "0x5B75B5eb28bEceDBB0A5A3cfeE6cdb4327E1856B",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/0x5b75b5eb28becedbb0a5a3cfee6cdb4327e1856b.PNG",
+        "name": "CryptoSorted",
+        "symbol": "CST",
+        "decimals": 18,
+        "civil": true
+    },
+    {
+        "address": "0x4F1480ba79F7477230ec3b2eCc868E8221925072",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/0x4f1480ba79f7477230ec3b2ecc868e8221925072.jpg",
+        "name": "Konra",
+        "symbol": "KONRA",
+        "decimals": 18,
+        "civil": true
+    },
+    {
+        "address": "0x675E1d6FcE8C7cC091aED06A68D079489450338a",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/0x675e1d6fce8c7cc091aed06a68d079489450338a.png",
+        "name": "Bitcoin Cash Argentina",
+        "symbol": "ARG",
+        "decimals": 18,
+        "civil": true
+    },
+    {
+        "address": "0xC41C680c60309d4646379eD62020c534eB67b6f4",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/0xc41c680c60309d4646379ed62020c534eb67b6f4.png",
+        "name": "MISTbar",
+        "symbol": "XMIST",
+        "decimals": 18,
+        "civil": true
+    },
+    {
+        "address": "0x35b3Ee79E1A7775cE0c11Bd8cd416630E07B0d6f",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/0x35b3ee79e1a7775ce0c11bd8cd416630e07b0d6f.png",
+        "name": "Bitcoin Cash Name Service",
+        "symbol": "LNS",
+        "decimals": 18,
+        "civil": true
+    },
+    {
+        "address": "0x8358758D3952A0146560F3584d3b219ed631E1ea",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/0x8358758d3952a0146560f3584d3b219ed631e1ea.png",
+        "name": "CAO",
+        "symbol": "CAO",
+        "decimals": 9,
+        "civil": true
+    },
+    {
+        "address": "0x659F04F36e90143fCaC202D4BC36C699C078fC98",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/0x659f04f36e90143fcac202d4bc36c699c078fc98.jpg",
+        "name": "Catsluck",
+        "symbol": "CLK",
+        "decimals": 18,
+        "civil": true
+    },
+    {
+        "address": "0xF05bD3d7709980f60CD5206BddFFA8553176dd29",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/0xf05bd3d7709980f60cd5206bddffa8553176dd29.png",
+        "name": "SmartIndex",
+        "symbol": "SIDX",
+        "decimals": 18,
+        "civil": true
+    },
+    {
+        "address": "0xFfA2394B61D3dE16538a2Bbf3491297Cc5a7C79a",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/0xffa2394b61d3de16538a2bbf3491297cc5a7c79a.jpg",
+        "name": "UatX Token",
+        "symbol": "UATX",
+        "decimals": 18,
+        "civil": true
+    },
+    {
+        "address": "0x3d13DaFcCA3a188DB340c81414239Bc2be312Ec9",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/0x3d13dafcca3a188db340c81414239bc2be312ec9.png",
+        "name": "AxieBCH",
+        "symbol": "AXIEBCH",
+        "decimals": 18,
+        "civil": true
     }
 ]
