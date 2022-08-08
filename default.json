@@ -249,5 +249,13 @@
         "symbol": "AXIEBCH",
         "decimals": 18,
         "civil": true
+    },
+    {
+        "address": "0xBE7E034c86AC2a302f69ef3975e3D14820cC7660",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/0xbe7e034c86ac2a302f69ef3975e3d14820cc7660.png",
+        "name": "LNSBar",
+        "symbol": "XLNS",
+        "decimals": 18,
+        "civil": true
     }
 ]
