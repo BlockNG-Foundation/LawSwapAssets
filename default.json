@@ -257,5 +257,13 @@
         "symbol": "XLNS",
         "decimals": 18,
         "civil": true
+    },
+    {
+        "address": "0x7eBeAdb95724a006aFaF2F1f051B13F4eBEBf711",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/0x7ebeadb95724a006afaf2f1f051b13f4ebebf711.png",
+        "name": "CashKitten",
+        "symbol": "KITTEN",
+        "decimals": 2,
+        "civil": true
     }
 ]
