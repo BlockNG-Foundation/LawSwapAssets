@@ -75,6 +75,20 @@
         "decimals": 18
     },
     {
+        "address": "0xdcDC535c134159AF7683df91CbAF014f88C5137d",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/bridge/wdoge.png",
+        "name": "BlockNG-Peg WDOGE Token",
+        "symbol": "dcWDOGE",
+        "decimals": 18
+    },
+    {
+        "address": "0xdcDC9141681ca3A2A681009cAEf312B8eD444236",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/bridge/dc.png",
+        "name": "BlockNG-Peg DC Token",
+        "symbol": "dcDC",
+        "decimals": 18
+    },
+    {
         "address": "0xbC6aEA0c2Cd7bFA073903ebdc23c8aAe79C7c826",
         "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/busd.svg",
         "name": "BlockNG-Peg BUSD Token",
