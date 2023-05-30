@@ -20,7 +20,7 @@
     },
     {
         "address": "0xBc9bD8DDe6C5a8e1CBE293356E02f5984693b195",
-        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/tokens/BCH.png",
+        "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwapAssets/main/bridge/bch.png",
         "name": "Bitcoin Cash",
         "symbol": "bcBCH",
         "decimals": 18
